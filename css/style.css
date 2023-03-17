@@ -158,7 +158,7 @@ nav .menu a:hover{
 nav .menu a:first-child {
   color: #00b894;
 }
-
+/*end nav*/
 
 main {
 background-color: black;
@@ -223,6 +223,8 @@ section .learnmore {
   animation: changetext 10s infinite linear;
   color: #00b894;
 }
+
+/* for footer */
 footer{
   top: 20px;
   height: 55vh;
@@ -232,6 +234,7 @@ footer{
   font-size: x-large;
   
 }
+/*end*/
 .lines {
   align-items: center;
 }
